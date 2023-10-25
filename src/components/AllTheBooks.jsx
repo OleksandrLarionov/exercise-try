@@ -6,9 +6,6 @@ import { Container } from 'react-bootstrap';
 import { Component } from 'react';
 // Genere dei libri
 
-// const found = fantasy.filter.includes('T');
-// ciao
-// console.log('trovato:', found);
 class AllTheBooks extends Component {
 	state = {
 		genre: {
